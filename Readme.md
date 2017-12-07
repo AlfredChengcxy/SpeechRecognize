@@ -5,3 +5,6 @@ LfasrType lfasr_type, // 本地音频对应类型
 HashMap<String, String> params, // 用户自定义参数，可传递suid，has_participle（是否分词），
 max_alternatives（多候选词），not_wait（是否同步等待），suid为用户自定义标识字符串，
 has_participle为true或false字符串，max_alternatives 为1-10整数，not_wait为true或false字符串。
+
+Q：语音云的API能够识别的音频格式
+A：目前只支持pcm格式的音频文件。
