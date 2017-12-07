@@ -1,0 +1,97 @@
+2017-06-05 09:50:10 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:88) - prepare ok
+2017-06-05 09:50:10 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:92) - get task_id:c9d93babcede4c8ca8e729a01668404e
+2017-06-05 09:50:10 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:138) - write meta info success, store file:E:\20170511 Voice Samples\resources\/c9d93babcede4c8ca8e729a01668404e.dat
+2017-06-05 09:50:29 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:c9d93babcede4c8ca8e729a01668404e
+2017-06-05 09:50:30 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:c9d93babcede4c8ca8e729a01668404e send meger success, 
+2017-06-05 14:50:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:88) - prepare ok
+2017-06-05 14:50:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:92) - get task_id:7f68a882e0de461ea97fc2e3e864313c
+2017-06-05 14:50:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:138) - write meta info success, store file:E:\/7f68a882e0de461ea97fc2e3e864313c.dat
+2017-06-05 14:50:09 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:7f68a882e0de461ea97fc2e3e864313c
+2017-06-05 14:50:10 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:7f68a882e0de461ea97fc2e3e864313c send meger success, 
+2017-06-14 15:45:37 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:45:37 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:49c4fdd5b727472d9aca68b90f38926d
+2017-06-14 15:45:37 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/49c4fdd5b727472d9aca68b90f38926d.dat
+2017-06-14 15:45:40 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:49c4fdd5b727472d9aca68b90f38926d
+2017-06-14 15:45:41 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:49c4fdd5b727472d9aca68b90f38926d send meger success, 
+2017-06-14 15:49:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:49:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:96f1f886a86e4403add7006d2113f6e1
+2017-06-14 15:49:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/96f1f886a86e4403add7006d2113f6e1.dat
+2017-06-14 15:49:10 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:96f1f886a86e4403add7006d2113f6e1
+2017-06-14 15:49:11 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:96f1f886a86e4403add7006d2113f6e1 send meger success, 
+2017-06-14 15:49:34 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:49:34 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:1e36df6f542649359ca0db21c65f3c93
+2017-06-14 15:49:34 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/1e36df6f542649359ca0db21c65f3c93.dat
+2017-06-14 15:49:37 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:1e36df6f542649359ca0db21c65f3c93
+2017-06-14 15:49:38 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:1e36df6f542649359ca0db21c65f3c93 send meger success, 
+2017-06-14 15:50:19 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:50:19 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:2ca3431d99e44834b910892a71053728
+2017-06-14 15:50:19 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/2ca3431d99e44834b910892a71053728.dat
+2017-06-14 15:50:23 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:2ca3431d99e44834b910892a71053728
+2017-06-14 15:50:24 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:2ca3431d99e44834b910892a71053728 send meger success, 
+2017-06-14 15:54:09 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:54:09 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:067f84798cd54e4abd3c0d3471d3af4d
+2017-06-14 15:54:09 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/067f84798cd54e4abd3c0d3471d3af4d.dat
+2017-06-14 15:54:16 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:067f84798cd54e4abd3c0d3471d3af4d
+2017-06-14 15:54:18 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:067f84798cd54e4abd3c0d3471d3af4d send meger success, 
+2017-06-14 15:55:30 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:55:30 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:cefc5b6663fb419ca9ae1e90c3abe68c
+2017-06-14 15:55:31 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/cefc5b6663fb419ca9ae1e90c3abe68c.dat
+2017-06-14 15:55:34 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:cefc5b6663fb419ca9ae1e90c3abe68c
+2017-06-14 15:55:35 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:cefc5b6663fb419ca9ae1e90c3abe68c send meger success, 
+2017-12-07 15:21:34 [ERROR] com.iflytek.msp.cpdb.lfasr.client.LfasrClientImp.<init>(LfasrClientImp.java:108) - [COMPENT]-CLIENT [PROCESS]-LfasrClientImp [ID]- [STATUS]- [MEASURE]-(-1) ms [DEF]-{"ok":"-1", "err_no":"26105", "failed":"转写配置文件store_path错误，或目录不可读写!", "data":""}
+2017-12-07 15:26:12 [ERROR] com.iflytek.msp.cpdb.lfasr.client.LfasrClientImp.<init>(LfasrClientImp.java:108) - [COMPENT]-CLIENT [PROCESS]-LfasrClientImp [ID]- [STATUS]- [MEASURE]-(-1) ms [DEF]-{"ok":"-1", "err_no":"26105", "failed":"转写配置文件store_path错误，或目录不可读写!", "data":""}
+2017-12-07 15:30:51 [ERROR] com.iflytek.msp.cpdb.lfasr.client.LfasrClientImp.<init>(LfasrClientImp.java:108) - [COMPENT]-CLIENT [PROCESS]-LfasrClientImp [ID]- [STATUS]- [MEASURE]-(-1) ms [DEF]-{"ok":"-1", "err_no":"26105", "failed":"转写配置文件store_path错误，或目录不可读写!", "data":""}
+2017-12-07 15:32:21 [ERROR] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:93) - [COMPENT]-CLIENT [PROCESS]-UploadWorker [ID]-null [STATUS]- [MEASURE]-(-1) ms [DEF]-prepare error:非法应用信息
+2017-12-07 15:53:15 [ERROR] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:93) - [COMPENT]-CLIENT [PROCESS]-UploadWorker [ID]-null [STATUS]- [MEASURE]-(-1) ms [DEF]-prepare error:预处理服务时长不足。您剩余的可用服务时长不足，请移步产品页http://www.xfyun.cn/services/lfasr 进行购买或者免费领取（注：标准版和电话专用版需分开进行购买或者领取）
+2017-12-07 20:09:40 [ INFO] org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:96) - I/O exception (java.net.SocketException) caught when processing request to {}->http://lfasr.xfyun.cn:80: Network is down
+2017-12-07 20:09:40 [ INFO] org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:112) - Retrying request to {}->http://lfasr.xfyun.cn:80
+2017-12-07 20:09:40 [ INFO] org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:96) - I/O exception (java.net.SocketException) caught when processing request to {}->http://lfasr.xfyun.cn:80: Network is down
+2017-12-07 20:09:40 [ INFO] org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:112) - Retrying request to {}->http://lfasr.xfyun.cn:80
+2017-12-07 20:09:40 [ INFO] org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:96) - I/O exception (java.net.SocketException) caught when processing request to {}->http://lfasr.xfyun.cn:80: Network is down
+2017-12-07 20:09:40 [ INFO] org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:112) - Retrying request to {}->http://lfasr.xfyun.cn:80
+2017-12-07 20:09:40 [ERROR] com.iflytek.msp.cpdb.lfasr.http.HttpUtil.post(HttpUtil.java:51) - [COMPENT]-CLIENT [PROCESS]-HttpUtil [ID]- [STATUS]- [MEASURE]-(-1) ms [DEF]-http post request error
+java.net.SocketException: Network is down
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:74)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at com.iflytek.msp.cpdb.lfasr.http.HttpUtil.post(HttpUtil.java:48)
+	at com.iflytek.msp.cpdb.lfasr.worker.HttpWorker.getProgress(HttpWorker.java:93)
+	at com.iflytek.msp.cpdb.lfasr.client.LfasrClientImp.lfasrGetProgress(LfasrClientImp.java:224)
+	at com.iflytek.msp.lfasr.TestLfasr.main(TestLfasr.java:78)
+2017-12-07 22:47:22 [ERROR] com.iflytek.msp.cpdb.lfasr.http.HttpUtil.post(HttpUtil.java:51) - [COMPENT]-CLIENT [PROCESS]-HttpUtil [ID]- [STATUS]- [MEASURE]-(-1) ms [DEF]-http post request error
+java.net.UnknownHostException: lfasr.xfyun.cn: unknown error
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at com.iflytek.msp.cpdb.lfasr.http.HttpUtil.post(HttpUtil.java:48)
+	at com.iflytek.msp.cpdb.lfasr.worker.HttpWorker.getProgress(HttpWorker.java:93)
+	at com.iflytek.msp.cpdb.lfasr.client.LfasrClientImp.lfasrGetProgress(LfasrClientImp.java:224)
+	at com.iflytek.msp.lfasr.TestLfasr.main(TestLfasr.java:78)
