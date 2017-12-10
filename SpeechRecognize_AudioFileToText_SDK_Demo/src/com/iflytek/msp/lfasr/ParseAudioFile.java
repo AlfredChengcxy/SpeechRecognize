@@ -15,7 +15,7 @@ import com.iflytek.msp.cpdb.lfasr.model.ProgressStatus;
 public class ParseAudioFile
 {
 	// 原始音频存放地址
-	private static final String local_file = "Feima_tech_graph_compute_顶会_and_last_2.mp3";
+	private static final String local_file = "许川.m4a";
 	/*
 	 * 转写类型选择：标准版和电话版分别为：
 	 * LfasrType.LFASR_STANDARD_RECORDED_AUDIO 和 LfasrType.LFASR_TELEPHONY_RECORDED_AUDIO
@@ -119,6 +119,7 @@ public class ParseAudioFile
 				System.out.println("打印转写结果:");
 				System.out.println(resultMsg.getData());
 				System.out.println("将转写结果拼接成完整的文章");
+				System.out.println(JsonHelper.concat(resultMsg.getData(),"onebest",'。'));
 
 			} else {
 				// 转写失败，根据失败信息进行处理

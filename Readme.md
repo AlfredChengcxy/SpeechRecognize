@@ -1,8 +1,8 @@
 
 # Next Step
-use a m4a to test.
+integrate writeToFile Util
 
-
+过滤通用的含有许川的句子。
 
 Java SDK Document：http://www.xfyun.cn/doccenter/lfasr#go_sdk_doc_v2
 
