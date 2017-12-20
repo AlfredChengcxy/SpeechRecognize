@@ -1,5 +1,5 @@
 
-# Next Step
+# Next Step   move this readme to util's wiki , ignore all other things in this repo
 integrate writeToFile Util
 
 过滤通用的含有许川的句子。
